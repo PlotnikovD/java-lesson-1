@@ -38,6 +38,7 @@ public class Main {
         }
     }
 
+
     public static void compareNumbers() {
         int a = 46;
         int b = 36;
